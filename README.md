@@ -14,4 +14,7 @@ cd x4dos
 
 chmod 777 setupx4.sh
 
+bash setupx4.sh
+
+
 python x4dos.py
